@@ -10,6 +10,7 @@
   "quantity": "Quantity",
   "totalAmount": "Total Amount",
   "totalExpense": "Total Expense",
+  "totalCost": "Total Cost",
   "grossProfit": "Gross Profit",
   "customer": "Customer",
   "profitability": "Profitability",
